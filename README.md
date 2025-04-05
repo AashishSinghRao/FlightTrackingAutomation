@@ -84,6 +84,8 @@ You will be prompted to enter a requirement in the terminal. The script will:
 - Create a Jira ticket using the description and sub-requirements
 
 ---
+## 📽️ Video Demo: https://drive.google.com/file/d/1LtXk88F0_YGPv1pQLz0-NEvFTM_F4S_H/view?usp=sharing
+---
 
 ## 🛠️ Technologies Used
 
@@ -109,6 +111,12 @@ You will be prompted to enter a requirement in the terminal. The script will:
 2. **Processing**: Perplexity expands it with a detailed breakdown.  
 3. **Output**: Jira ticket is created automatically.  
 4. **Saved Data**: Expansion is saved locally for reference or debugging.
+
+---
+
+## 🔮 Future Scope
+
+This is part of automating the Software Development Life Cycle (SDLC). Particularly, ideation, requirement gathering and ticket creation is implemented here. Futher steps of SDLC can also be automated in future.
 
 ---
 
