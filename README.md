@@ -115,7 +115,3 @@ You will be prompted to enter a requirement in the terminal. The script will:
 ## 📬 Author
 
 Made with ❤️ by [Aashish Singh](https://github.com/<your-username>)
-
----
-
-Let me know if you'd like to add screenshots, GIFs, or a `.env.example` to your repo as well.
